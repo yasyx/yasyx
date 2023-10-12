@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working as a Java software engineer.
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything you want
+- 📫 How to reach me: via email 237643381@qq.com or via blog https://blog.meyasy.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **yasyx/yasyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
